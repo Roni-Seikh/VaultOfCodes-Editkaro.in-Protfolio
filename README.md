@@ -62,7 +62,6 @@ VaultOfCodes-Editkaro.in-Portfolio/
 
 ### 🎨 Portfolio Section
 #### 🌙 Dark Mode
-![Portfolio Section Dark 1]([https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Protfolio%20Section%20Dark%201.png])
 ![Portfolio Section Dark 2](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Protfolio%20Section%202.png)
 
 #### ☀️ Light Mode

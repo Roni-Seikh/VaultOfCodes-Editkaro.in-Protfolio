@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Editkaro - Social Media Marketing and Video Editing Agency">
+        <title>Editkaro | Portfolio</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+<body>
+    <!-- Header Structure -->
+    <header class="navbar">
+        <div class="header-container">
+            <img src="images/logo.png" alt="Editkaro Logo" class="logo">
+            <h1 class="heading">Editkaro.in</h1>
+            <div class="menu-toggle" id="menu-toggle">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </div>
+        <nav>
+            <ul class="nav-links" id="nav-menu">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#portfolio">Portfolio</a></li>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+        <input type="text" class="search-bar" placeholder="Search videos...">
+        <button id="themeToggle">Toggle Light/Dark Mode</button>
+    </header>
+
+    <!-- Home Page Structure -->
+    <section id="home">
+        <h2>Welcome to Editkaro</h2>
+        <p>Your go-to agency for professional video editing and social media marketing.</p>
+        <ul>
+            <li>📹 High-quality video editing for businesses, influencers, and brands.</li>
+            <li>📈 Customized social media strategies to boost engagement and growth.</li>
+            <li>🎨 Creative content tailored to your brand’s identity.</li>
+            <li>🚀 Fast turnaround time with top-notch results.</li>
+        </ul>
+        <p>Join our community and stay updated with the latest trends in digital marketing and video content creation.</p>
+        <form id="emailForm">
+            <input type="email" id="email" placeholder="Enter your email" required>
+            <button type="submit">Subscribe</button>
+        </form>
+    </section>    
+
+    <!-- Portfolio Structure -->
+    <section id="portfolio">
+        <h2>Our Portfolio</h2>
+        <p>Explore our best video editing and marketing projects.</p>
+        <div class="portfolio-filters">
+            <button class="filter-btn active" data-filter="all">All</button>
+            <button class="filter-btn" data-filter="short">Short Videos</button>
+            <button class="filter-btn" data-filter="long">Long Videos</button>
+            <button class="filter-btn" data-filter="gaming">Gaming Videos</button>
+            <button class="filter-btn" data-filter="football-edits">Football Edits</button>
+            <button class="filter-btn" data-filter="anime-videos">Anime Videos</button>
+            <button class="filter-btn" data-filter="ecommerce-ads">eCommerce Ads</button>
+        </div>
+        <div class="portfolio-gallery">
+            <div class="video-card" data-category="short">
+                <video src="videos/one.mp4" controls></video>
+                <div class="video-overlay">
+                    <h3>Short Video</h3>
+                </div>
+            </div>
+            <div class="video-card" data-category="long">
+                <video src="videos/two.mp4" controls></video>
+                <div class="video-overlay">
+                    <h3>Long Video</h3>
+                </div>
+            </div>
+            <div class="video-card" data-category="gaming">
+                <video src="videos/three.mp4" controls></video>
+                <div class="video-overlay">
+                    <h3>Gaming Video</h3>
+                </div>
+            </div>
+            <div class="video-card" data-category="football-edits">
+                <video src="videos/four.mp4" controls></video>
+                <div class="video-overlay">
+                    <h3>Football Edit</h3>
+                </div>
+            </div>
+            <div class="video-card" data-category="anime-videos">
+                <video src="videos/five.mp4" controls></video>
+                <div class="video-overlay">
+                    <h3>Anime Video</h3>
+                </div>
+            </div>
+            <div class="video-card" data-category="ecommerce-ads">
+                <video src="videos/six.mp4" controls></video>
+                <div class="video-overlay">
+                    <h3>eCommerce Ad</h3>
+                </div>
+            </div>
+        </div>
+    </section>    
+
+    <!-- About Page Structure -->
+    <section id="about">
+        <h2>About Us</h2>
+        <p>At <strong>Editkaro</strong>, we specialize in crafting high-quality video content and result-driven social media strategies to elevate your brand's digital presence. Whether you are an influencer, startup, or established brand, we help you create visually compelling content that captivates your audience.</p>
+        <h3>Why Choose Us?</h3>
+        <ul>
+            <li>🎬 <strong>Professional Video Editing:</strong> Stunning visuals, seamless transitions, and high-quality storytelling.</li>
+            <li>📢 <strong>Social Media Marketing:</strong> Effective strategies to increase engagement, followers, and brand awareness.</li>
+            <li>🚀 <strong>Fast Turnaround:</strong> Get your content ready quickly without compromising quality.</li>
+            <li>💡 <strong>Creative Solutions:</strong> Customized content tailored to your brand’s identity.</li>
+        </ul>
+        <h3>Our Team</h3>
+        <p>Meet the experts behind Editkaro who bring creativity and strategy to life.</p>
+        <div class="team">
+            <div class="member">
+                <img src="images/1.png" alt="John Doe - Video Editor">
+                <p><strong>John Doe</strong> - Senior Video Editor <br> 🎥 Specializes in cinematic edits, transitions, and motion graphics.</p>
+            </div>
+            <div class="member">
+                <img src="images/2.png" alt="Jane Smith - Marketing Lead">
+                <p><strong>Jane Smith</strong> - Marketing Lead <br> 📊 Expert in social media growth, ad campaigns, and content strategy.</p>
+            </div>
+            <div class="member">
+                <img src="images/3.png" alt="Emily Brown - Creative Director">
+                <p><strong>Emily Brown</strong> - Creative Director <br> 🎨 Designs unique brand identities and compelling storytelling content.</p>
+            </div>
+        </div>
+
+        <h3>Our Mission</h3>
+        <p>Our mission is to empower brands with top-tier video editing and marketing strategies that drive real engagement and conversions. We believe in delivering content that not only looks great but also performs exceptionally across digital platforms.</p>
+
+        <h3>Get in Touch</h3>
+        <p>Want to collaborate with us? We’d love to hear from you!</p>
+        <a href="#contact" class="cta-button">Contact Us</a>
+    </section>
+
+    <!-- Contact Page Structure -->
+    <section id="contact">
+        <h2 class="fade-in">Contact Us</h2>
+        <p class="fade-in">Have a project in mind? Need expert video editing or social media marketing services? Get in touch with us today!</p>
+        <div class="contact-info fade-in">
+            <p>📍 <strong>Address:</strong> 123 Creative Street, Mumbai, India</p>
+            <p>📧 <strong>Email:</strong> <a href="mailto:contact@editkaro.in">contact@editkaro.in</a></p>
+            <p>📞 <strong>Phone:</strong> <a href="tel:+919876543210">+91 98765 43210</a></p>
+            <p>🕒 <strong>Business Hours:</strong> Mon - Sat: 9 AM - 6 PM | Sunday: Closed</p>
+            <p>🌍 <strong>Follow Us:</strong>
+                <a href="https://facebook.com/editkaro" target="_blank" class="social-link">Facebook</a> |
+                <a href="https://instagram.com/editkaro" target="_blank" class="social-link">Instagram</a> |
+                <a href="https://linkedin.com/company/editkaro" target="_blank" class="social-link">LinkedIn</a>
+            </p>
+        </div>
+        <h3 class="slide-up">Send Us a Message</h3>
+        <form id="contactForm" class="fade-in">
+            <input type="text" id="name" placeholder="Your Name" required>
+            <input type="email" id="emailContact" placeholder="Your Email" required>
+            <input type="text" id="phone" placeholder="Your Phone" required>
+            <textarea id="message" placeholder="Your Message" required></textarea>
+            <button type="submit">Send Message</button>
+        </form>
+        <h3 class="slide-up">Visit Our Office</h3>
+        <div class="map fade-in">
+            <iframe 
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.835434509374!2d144.96315781531643!3d-37.81627927975186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d5df0d1b1f5%3A0x3b3f56a9e5c7d4e8!2sEditkaro%20Office!5e0!3m2!1sen!2sin!4v1612159401445!5m2!1sen!2sin" 
+                width="100%" 
+                height="300" 
+                style="border:0;" 
+                allowfullscreen="" 
+                loading="lazy">
+            </iframe>
+        </div>
+    </section>
+
+    <script defer src="script.js"></script>
+</body>
+</html>

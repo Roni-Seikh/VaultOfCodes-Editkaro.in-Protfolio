@@ -51,49 +51,75 @@ VaultOfCodes-Editkaro.in-Portfolio/
 
 # 📸 Project Screenshots
 
-## 🌙 Desktop Dark Mode
-![About Section Dark 1](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/About%20Section%20Dark%201.png)
-![About Section Dark 2](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/About%20Section%20Dark%202.png)
-![Contact Section Dark 1](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Contact%20Section%20Dark%201.png)
-![Contact Section Dark 2](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Contact%20Section%20Dark%202.png)
+## 🌐 Desktop Screenshots
+
+### 🏠 Home Page
+#### 🌙 Dark Mode
 ![Home Section Dark](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Home%20Section%20Dark.png)
+
+#### ☀️ Light Mode
+![Home Section Light](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Home%20Section%20Light.png)
+
+### 🎨 Portfolio Section
+#### 🌙 Dark Mode
 ![Portfolio Section Dark 1](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Protfolio%20Section%20Dark%201.png)
 ![Portfolio Section Dark 2](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Protfolio%20Section%202.png)
-![Team Members Dark 1](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Team%20Members%20Dark%201.png)
-![Team Members Dark 2](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Team%20Member%20Dark%202.png)
 
-## 📱 Mobile Dark Mode
-![About Section Dark Mobile](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/About%20Section%20Dark%20Mobile.png)
-![Contact Section Dark Mobile 1](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Contact%20Section%20Dark%20Mobile%201.png)
-![Contact Section Dark Mobile 2](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Contact%20Section%20Dark%20Mobile%202.png)
-![Contact Section Dark Mobile 3](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Contact%20Section%20Dark%20Mobile%203.png)
-![Home Section Dark Mobile](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Home%20Section%20Dark%20Mobile.png)
-![Navbar Dark Mobile](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Home%20Section%20Navbar%20Dark%20Mobile.png)
-![Portfolio Section Dark Mobile 1](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Protfolio%20Section%20Dark%201.png)
-![Portfolio Section Dark Mobile 2](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Protfolio%20Section%20Dark%202.png)
-
-## ☀️ Desktop Light Mode
-![About Section Light](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/About%20Section%20Light.png)
-![Contact Section Light 1](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Contact%20Section%20Light%201.png)
-![Contact Section Light 2](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Contact%20Section%20Light%202.png)
-![Contact Section Light 3](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Contact%20Section%20Light%203.png)
-![Home Section Light](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Home%20Section%20Light.png)
+#### ☀️ Light Mode
 ![Portfolio Section Light 1](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Protfolio%20Section%20Light%201.png)
 ![Portfolio Section Light 2](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Protfolio%20Section%20Light%202.png)
-![Team Section Light 1](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Team%20Section%20Light%201.png)
-![Team Section Light 2](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Team%20Section%20Light%202.png)
 
-## 📱 Mobile Light Mode
-![About Section Light Mobile](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/About%20Section%20Light%20Mobile.png)
-![Contact Section Light Mobile 1](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Contact%20Section%20Light%20Mobile%201.png)
-![Contact Section Light Mobile 2](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Contact%20Section%20Light%20Mobile%202.png)
-![Contact Section Light Mobile 3](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Contact%20Section%20Light%20Mobile%203.png)
+### 🏢 About Section
+#### 🌙 Dark Mode
+![About Section Dark 1](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/About%20Section%20Dark%201.png)
+![About Section Dark 2](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/About%20Section%20Dark%202.png)
+
+#### ☀️ Light Mode
+![About Section Light](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/About%20Section%20Light.png)
+
+### 📞 Contact Section
+#### 🌙 Dark Mode
+![Contact Section Dark 1](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Contact%20Section%20Dark%201.png)
+![Contact Section Dark 2](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Contact%20Section%20Dark%202.png)
+
+#### ☀️ Light Mode
+![Contact Section Light 1](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Contact%20Section%20Light%201.png)
+![Contact Section Light 2](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Contact%20Section%20Light%202.png)
+
+---
+
+## 📱 Mobile Screenshots
+
+### 🏠 Home Page
+#### 🌙 Dark Mode
+![Home Section Dark Mobile](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Home%20Section%20Dark%20Mobile.png)
+![Navbar Dark Mobile](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Home%20Section%20Navbar%20Dark%20Mobile.png)
+
+#### ☀️ Light Mode
 ![Home Screen Light Mobile](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Home%20Screen%20Light%20Mobile.png)
-![Portfolio Section Light Mobile 1](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Protfolio%20Section%20Light%20Mobile%201.png)
-![Portfolio Section Light Mobile 2](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Protfolio%20Section%20Light%20Mobile%202.png)
-![Team Section Light Mobile](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Team%20Section%20Light%20Mobile.png)
 
-📌 **These screenshots provide a comprehensive visual representation of the project across different modes and screen sizes.** 🚀
+### 🎨 Portfolio Section
+#### 🌙 Dark Mode
+![Portfolio Section Dark Mobile](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Protfolio%20Section%20Dark%202.png)
+
+#### ☀️ Light Mode
+![Portfolio Section Light Mobile](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Protfolio%20Section%20Light%20Mobile%202.png)
+
+### 🏢 About Section
+#### 🌙 Dark Mode
+![About Section Dark Mobile](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/About%20Section%20Dark%20Mobile.png)
+
+#### ☀️ Light Mode
+![About Section Light Mobile](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/About%20Section%20Light%20Mobile.png)
+
+### 📞 Contact Section
+#### 🌙 Dark Mode
+![Contact Section Dark Mobile](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Contact%20Section%20Dark%20Mobile%201.png)
+
+#### ☀️ Light Mode
+![Contact Section Light Mobile](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Contact%20Section%20Light%20Mobile%201.png)
+
+📌 **These screenshots provide a clear and structured view of the project, showcasing both desktop and mobile versions in dark and light modes.** 🚀
 
 
 

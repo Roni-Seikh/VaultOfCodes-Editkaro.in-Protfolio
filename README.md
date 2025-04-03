@@ -1,7 +1,7 @@
 
 # 🚀 **EditKaro.in Portfolio Website**  
 
-![Project Banner](Screenshots/banner.png)
+![Project Banner](https://github.com/Roni-Seikh/VaultOfCodes-Editkaro.in-Protfolio/blob/main/Screenshots/Protfolio%20Section%202.png)
 
 🌟 **A sleek, modern, and fully responsive portfolio website built for EditKaro.in during my internship at Vault of Codes!**
 
